@@ -91,7 +91,7 @@ strong {
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 22px;
 }
 
 papertitle {
@@ -102,7 +102,7 @@ papertitle {
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 32px;
 }
 
 .one {
@@ -127,5 +127,5 @@ name {
 }
 
 span.highlight {
-  background-color: #b6d7a8;
+  background-color: #ffffd0;
 }
